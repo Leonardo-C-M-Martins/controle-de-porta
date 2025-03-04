@@ -3,6 +3,7 @@
 
 class Motor {
     private:
+        int pin;
         
     public:
         Motor();
@@ -10,6 +11,9 @@ class Motor {
         void moverDireita();
         void moverEsquerda();
         void parar();
+
+        int getPin();
+        void setPin(int digitalPin);
 };
 
 #endif

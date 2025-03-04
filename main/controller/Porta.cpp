@@ -1,7 +1,7 @@
 #include "main.hpp"
 
 Porta::Porta(){
-    /* * */
+    
 }
 
 void Porta::abrir(){
