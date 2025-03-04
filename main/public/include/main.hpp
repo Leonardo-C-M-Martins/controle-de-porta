@@ -5,5 +5,7 @@
 #include "Motor.hpp"
 #include "ServoMotor.hpp"
 #include "Porta.hpp"
+#include "WiFi.hpp"
+#include "Led.hpp"
 
 #endif
